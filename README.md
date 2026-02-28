@@ -1,7 +1,7 @@
 # Lares.AI — AI Workforce Platform
 
 > **Built for India · Kerala AI Mission Hackathon 2026**
-> AI employees for Indian SMBs. Deploy in 60 seconds. From ₹2,000/agent/month.
+> AI employees for Indian SMBs. Deploy in 60 seconds.
 
 Lares.AI lets businesses hire and deploy AI agents that handle customer support, sales, and DevOps — autonomously, around the clock. Multiple agents collaborate with each other, hand off tasks between themselves, and report everything to a live audit trail.
 
